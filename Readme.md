@@ -1,15 +1,16 @@
 ## Completed Problems
-* <span style="color:green">Problem 1</span>: Two Sum
-* <span style="color:yellow">Problem 2</span>: Add Two Numbers
-* <span style="color:yellow">Problem 3</span>: Longest Substring Without Repeating Characters
-* <span style="color:red">Problem 4</span>: Median of Two Sorted Arrays
-* <span style="color:yellow">Problem 5</span>: Longest Palindromic Substring
-* <span style="color:yellow">Problem 6</span>: ZigZag Conversion
-* <span style="color:green">Problem 7</span>: Reverse Integer
-* <span style="color:yellow">Problem 8</span>: String to Integer (atoi)
-* <span style="color:green">Problem 9</span>: Palindrome Number
-* <span style="color:yellow">Problem 11</span>: Container With Most Water
-* <span style="color:green">Problem 66</span>: Plus One
-* <span style="color:yellow">Problem 498</span>: Diagonal Traverse
-* <span style="color:green">Problem 724</span>: Find Pivot Index
-* <span style="color:green">Problem 747</span>: Largest Number At Least Twice of Others
+- Problem 1: Two Sum
+- Problem 2: Add Two Numbers
+- Problem 3: Longest Substring Without Repeating Characters
+- Problem 4: Median of Two Sorted Arrays
+- Problem 5: Longest Palindromic Substring
+- Problem 6: ZigZag Conversion
+- Problem 7: Reverse Integer
+- Problem 8: String to Integer (atoi)
+- Problem 9: Palindrome Number
+- Problem 11: Container With Most Water
+- Problem 54: Spiral Matrix
+- Problem 66: Plus One
+- Problem 498: Diagonal Traverse
+- Problem 724: Find Pivot Index
+- Problem 747: Largest Number At Least Twice of Others
