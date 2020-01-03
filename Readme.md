@@ -11,6 +11,7 @@
 - Problem 11: Container With Most Water
 - Problem 54: Spiral Matrix
 - Problem 66: Plus One
+- Problem 118: Pascal's Triangle
 - Problem 498: Diagonal Traverse
 - Problem 724: Find Pivot Index
 - Problem 747: Largest Number At Least Twice of Others
