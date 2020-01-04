@@ -9,6 +9,7 @@
 - Problem 8: String to Integer (atoi)
 - Problem 9: Palindrome Number
 - Problem 11: Container With Most Water
+- Problem 28: Implement strStr()
 - Problem 54: Spiral Matrix
 - Problem 66: Plus One
 - Problem 67: Add Binary
