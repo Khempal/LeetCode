@@ -10,11 +10,16 @@
 - Problem 9: Palindrome Number
 - Problem 11: Container With Most Water
 - Problem 14: Longest Common Prefix
+- Problem 27: Remove Element
 - Problem 28: Implement strStr()
 - Problem 54: Spiral Matrix
 - Problem 66: Plus One
 - Problem 67: Add Binary
 - Problem 118: Pascal's Triangle
+- Problem 167: Two Sum II - Input array is sorted
+- Problem 344: Reverse String
+- Problem 485: Max Consecutive Ones
 - Problem 498: Diagonal Traverse
+- Problem 561: Array Partition I
 - Problem 724: Find Pivot Index
 - Problem 747: Largest Number At Least Twice of Others
