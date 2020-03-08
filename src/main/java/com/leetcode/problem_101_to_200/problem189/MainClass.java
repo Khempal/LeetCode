@@ -1,4 +1,4 @@
-package com.leetcode.problem_101_to_200.problem209;
+package com.leetcode.problem_101_to_200.problem189;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -21,17 +21,33 @@ public class MainClass {
         return output;
     }
     
+    public static String integerArrayToString(int[] nums, int length) {
+        if (length == 0) {
+            return "[]";
+        }
+    
+        String result = "";
+        for(int index = 0; index < length; index++) {
+            int number = nums[index];
+            result += Integer.toString(number) + ", ";
+        }
+        return "[" + result.substring(0, result.length() - 2) + "]";
+    }
+    
+    public static String integerArrayToString(int[] nums) {
+        return integerArrayToString(nums, nums.length);
+    }
+    
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         String line;
         while ((line = in.readLine()) != null) {
-            int s = Integer.parseInt(line);
-            line = in.readLine();
             int[] nums = stringToIntegerArray(line);
+            line = in.readLine();
+            int k = Integer.parseInt(line);
             
-            int ret = new Solution().minSubArrayLen(s, nums);
-            
-            String out = String.valueOf(ret);
+            new Solution().rotate(nums, k);
+            String out = integerArrayToString(nums);
             
             System.out.print(out);
         }
