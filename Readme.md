@@ -21,6 +21,7 @@
 - Problem 151: Reverse Words in a String
 - Problem 167: Two Sum II - Input array is sorted
 - Problem 189: Rotate Array
+- Problem 200: Number of Islands
 - Problem 209: Minimum Size Subarray Sum
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
@@ -28,5 +29,6 @@
 - Problem 498: Diagonal Traverse
 - Problem 557: Reverse Words in a String III
 - Problem 561: Array Partition I
+- Problem 622: Design Circular Queue
 - Problem 724: Find Pivot Index
 - Problem 747: Largest Number At Least Twice of Others
