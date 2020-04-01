@@ -18,6 +18,7 @@
 - Problem 67: Add Binary
 - Problem 118: Pascal's Triangle
 - Problem 119: Pascal's Triangle II
+- Problem 136: Single Number
 - Problem 151: Reverse Words in a String
 - Problem 167: Two Sum II - Input array is sorted
 - Problem 189: Rotate Array
