@@ -23,6 +23,7 @@
 - Problem 167: Two Sum II - Input array is sorted
 - Problem 189: Rotate Array
 - Problem 200: Number of Islands
+- Problem 202: Happy Number
 - Problem 209: Minimum Size Subarray Sum
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
