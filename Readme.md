@@ -13,11 +13,14 @@
 - Problem 26: Remove Duplicates from Sorted Array
 - Problem 27: Remove Element
 - Problem 28: Implement strStr()
+- Problem 49: Group Anagrams
+- Problem 53: Maximum Subarray
 - Problem 54: Spiral Matrix
 - Problem 66: Plus One
 - Problem 67: Add Binary
 - Problem 118: Pascal's Triangle
 - Problem 119: Pascal's Triangle II
+- Problem 122: Best Time to Buy and Sell Stock II
 - Problem 136: Single Number
 - Problem 151: Reverse Words in a String
 - Problem 167: Two Sum II - Input array is sorted
