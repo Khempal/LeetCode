@@ -23,6 +23,7 @@
 - Problem 122: Best Time to Buy and Sell Stock II
 - Problem 136: Single Number
 - Problem 151: Reverse Words in a String
+- Problem 155: Min Stack
 - Problem 167: Two Sum II - Input array is sorted
 - Problem 189: Rotate Array
 - Problem 200: Number of Islands
@@ -37,3 +38,5 @@
 - Problem 622: Design Circular Queue
 - Problem 724: Find Pivot Index
 - Problem 747: Largest Number At Least Twice of Others
+- Problem 844: Backspace String Compare
+- Problem 876: Middle of the Linked List
