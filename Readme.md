@@ -31,8 +31,11 @@
 - Problem 209: Minimum Size Subarray Sum
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
+- Problem 476: Number Complement
 - Problem 485: Max Consecutive Ones
 - Problem 498: Diagonal Traverse
+- Problem 525: Contiguous Array
+- Problem 543: Diameter of Binary Tree
 - Problem 557: Reverse Words in a String III
 - Problem 561: Array Partition I
 - Problem 622: Design Circular Queue
@@ -40,3 +43,4 @@
 - Problem 747: Largest Number At Least Twice of Others
 - Problem 844: Backspace String Compare
 - Problem 876: Middle of the Linked List
+- Problem 1046: Last Stone Weight
