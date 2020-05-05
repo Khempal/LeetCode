@@ -18,6 +18,7 @@
 - Problem 54: Spiral Matrix
 - Problem 66: Plus One
 - Problem 67: Add Binary
+- Problem 88: Merge Sorted Array
 - Problem 118: Pascal's Triangle
 - Problem 119: Pascal's Triangle II
 - Problem 122: Best Time to Buy and Sell Stock II
@@ -47,4 +48,6 @@
 - Problem 876: Middle of the Linked List
 - Problem 977: Squares of a Sorted Array
 - Problem 1046: Last Stone Weight
+- Problem 1089: Duplicate Zeros
 - Problem 1295: Find Numbers with Even Number of Digits
+- Problem 1346: Check If N and Its Double Exist
