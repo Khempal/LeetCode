@@ -3,7 +3,7 @@ package com.leetcode.problem_1_to_100.problem1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     /*public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> integerMap = new TreeMap<>();
         for (int i = 0; i < nums.length; i++) {

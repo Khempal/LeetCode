@@ -1,6 +1,6 @@
 package com.leetcode.problem_401_to_500.problem498;
 
-public class Solution {
+class Solution {
 
     public int[] findDiagonalOrder(int[][] matrix) {
         if (matrix == null || matrix.length == 0)

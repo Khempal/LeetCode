@@ -29,8 +29,10 @@
 - Problem 200: Number of Islands
 - Problem 202: Happy Number
 - Problem 209: Minimum Size Subarray Sum
+- Problem 238: Product of Array Except Self
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
+- Problem 387: First Unique Character in a String
 - Problem 476: Number Complement
 - Problem 485: Max Consecutive Ones
 - Problem 498: Diagonal Traverse
@@ -43,4 +45,6 @@
 - Problem 747: Largest Number At Least Twice of Others
 - Problem 844: Backspace String Compare
 - Problem 876: Middle of the Linked List
+- Problem 977: Squares of a Sorted Array
 - Problem 1046: Last Stone Weight
+- Problem 1295: Find Numbers with Even Number of Digits
