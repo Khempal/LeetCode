@@ -26,6 +26,7 @@
 - Problem 151: Reverse Words in a String
 - Problem 155: Min Stack
 - Problem 167: Two Sum II - Input array is sorted
+- Problem 169: Majority Element
 - Problem 189: Rotate Array
 - Problem 200: Number of Islands
 - Problem 202: Happy Number
@@ -46,8 +47,11 @@
 - Problem 747: Largest Number At Least Twice of Others
 - Problem 844: Backspace String Compare
 - Problem 876: Middle of the Linked List
+- Problem 905: Sort Array By Parity
+- Problem 941: Valid Mountain Array
 - Problem 977: Squares of a Sorted Array
 - Problem 1046: Last Stone Weight
 - Problem 1089: Duplicate Zeros
 - Problem 1295: Find Numbers with Even Number of Digits
+- Problem 1299: Replace Elements with Greatest Element on Right Side
 - Problem 1346: Check If N and Its Double Exist
