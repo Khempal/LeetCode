@@ -34,6 +34,7 @@
 - Problem 238: Product of Array Except Self
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
+- Problem 367: Valid Perfect Square
 - Problem 387: First Unique Character in a String
 - Problem 476: Number Complement
 - Problem 485: Max Consecutive Ones
@@ -51,6 +52,7 @@
 - Problem 941: Valid Mountain Array
 - Problem 977: Squares of a Sorted Array
 - Problem 1046: Last Stone Weight
+- Problem 1051: Height Checker
 - Problem 1089: Duplicate Zeros
 - Problem 1295: Find Numbers with Even Number of Digits
 - Problem 1299: Replace Elements with Greatest Element on Right Side
