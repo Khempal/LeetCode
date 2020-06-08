@@ -33,6 +33,7 @@
 - Problem 202: Happy Number
 - Problem 209: Minimum Size Subarray Sum
 - Problem 226: Invert Binary Tree
+- Problem 231: Power of Two
 - Problem 238: Product of Array Except Self
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
