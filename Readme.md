@@ -23,6 +23,7 @@
 - Problem 119: Pascal's Triangle II
 - Problem 122: Best Time to Buy and Sell Stock II
 - Problem 136: Single Number
+- Problem 144: Binary Tree Preorder Traversal
 - Problem 151: Reverse Words in a String
 - Problem 155: Min Stack
 - Problem 167: Two Sum II - Input array is sorted
@@ -31,6 +32,7 @@
 - Problem 200: Number of Islands
 - Problem 202: Happy Number
 - Problem 209: Minimum Size Subarray Sum
+- Problem 226: Invert Binary Tree
 - Problem 238: Product of Array Except Self
 - Problem 283: Move Zeroes
 - Problem 344: Reverse String
